@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2b50ebef-76d8-44c7-96d6-ec11637b699f/microsoft.web/sites/subscriptions/2b50ebef-76d8-44c7-96d6-ec11637b699f/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/CalcAPIFront",
+    "appService.deploySubpath": "."
+}
